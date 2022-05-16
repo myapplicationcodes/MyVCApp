@@ -11,6 +11,7 @@ namespace MyVCApp
         public string UserName { set; get; }
         public string Password { set; get; }
         public string EMail { set; get; }
+        public DateTime CreatedOne {set;get;}
 
     }
 }
